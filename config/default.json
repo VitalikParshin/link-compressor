@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://vitalii:vitalik23031988@cluster0.grepkda.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "vitaliibuylabas",
+    "baseUrl": "http://localhost:5000"
+}
